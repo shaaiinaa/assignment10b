@@ -1,0 +1,16 @@
+.child-type-1 {
+  position: absolute;
+}
+.child-type-2 {
+  position: absolute;
+}
+.c1 {
+  z-index: 1;
+}
+.c3 {
+  z-index: 2;
+}
+.c4 {
+  bottom: 32px;
+  right: 32px;
+}
